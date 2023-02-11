@@ -42,8 +42,8 @@ I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smahmudnazar&stroke=FA8B00&background=000000&currStreakNum=FA8B00&border=FA8B00&sideNums=FA8B00&currStreakLabel=FA8B00&sideLabels=FA8B00&dates=FA8B00)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smahmudnazar&show_icons=true&bg_color=000000&icon_color=FA8B00&text_color=FA8B00&border_color=FA8B00&title_color=FA8B00)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smahmudnazar&stroke=FA8B00&background=000000&currStreakNum=FA8B00&border=FA8B00&sideNums=FA8B00&currStreakLabel=FA8B00&sideLabels=FA8B00&dates=FA8B00)](https://git.io/streak-stats) <br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smahmudnazar&show_icons=true&bg_color=000000&icon_color=FA8B00&text_color=FA8B00&border_color=FA8B00&title_color=FA8B00)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmudnazar&bg_color=000000&icon_color=FA8B00&text_color=FA8B00&border_color=FA8B00&title_color=FA8B00)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
