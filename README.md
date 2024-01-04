@@ -39,13 +39,3 @@ I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpO
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" **alt="VSCode" width="50" height="50" style="margin-left:15px"/>
 </div>
 
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smahmudnazar&stroke=FA8B00&background=000000&currStreakNum=FA8B00&border=FA8B00&sideNums=FA8B00&currStreakLabel=FA8B00&sideLabels=FA8B00&dates=FA8B00)](https://git.io/streak-stats) <br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smahmudnazar&show_icons=true&bg_color=000000&icon_color=FA8B00&text_color=FA8B00&border_color=FA8B00&title_color=FA8B00)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmudnazar&bg_color=000000&icon_color=FA8B00&text_color=FA8B00&border_color=FA8B00&title_color=FA8B00)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
